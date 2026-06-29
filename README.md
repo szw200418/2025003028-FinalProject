@@ -1,6 +1,6 @@
 # Emmo - 智能睡眠记录助手
 
-GitHub 仓库地址：https://github.com/2025003028-FinalProject
+GitHub 仓库地址：https://github.com/szw200418/2025003028-FinalProject
 
 ## 1. 项目简介
 
@@ -247,7 +247,8 @@ GitHub 仓库地址：https://github.com/2025003028-FinalProject
   - `android.permission.INTERNET`（网络权限，为后续云端功能预留）
   - `android.permission.ACCESS_NETWORK_STATE`（网络状态检测）
 - **运行步骤**：
-  1. 克隆仓库：`git clone https://github.com/2025003028-FinalProject
+  1. 克隆仓库：`git clone https://github.com/szw200418/2025003028-FinalProject
+)
   2. 使用 Android Studio（Hedgehog 及以上版本）打开项目
   3. 等待 Gradle 同步完成（首次同步需下载依赖）
   4. 连接模拟器（推荐 Pixel 6 API 36）或真机，点击 Run
